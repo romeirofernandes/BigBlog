@@ -32,7 +32,7 @@ I rant [here](https://bigblog-six.vercel.app/) about things.
 ### 📝 Writing a Blog Post  
 When writing a blog, this is what I see:  
 
-![Editor View](https://shorturl.at/UvivS)  
+![Editor View](https://res.cloudinary.com/dxrb00q4u/image/upload/v1740751953/Screenshot_2025-02-28_194201_bnu9sd.png)  
 
 ![Image Upload](https://shorturl.at/oJ9Ee)  
 
